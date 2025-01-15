@@ -1,3 +1,6 @@
+# wollshare
+A platform for resource sharing among students in Wollongong.
+
 wollshare/
 ├── backend/                  # Backend services
 │   ├── api/                  # Main backend service (NestJS)
